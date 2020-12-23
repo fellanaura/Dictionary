@@ -1,0 +1,21 @@
+c:\users\acer\documents\visual studio 2015\Projects\Dictionary\Dictionary\bin\Debug\Dictionary.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\Dictionary\Dictionary\bin\Debug\Dictionary.exe
+c:\users\acer\documents\visual studio 2015\Projects\Dictionary\Dictionary\bin\Debug\Dictionary.pdb
+c:\users\acer\documents\visual studio 2015\Projects\Dictionary\Dictionary\obj\Debug\Dictionary.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2015\Projects\Dictionary\Dictionary\obj\Debug\Dictionary.Form1.resources
+c:\users\acer\documents\visual studio 2015\Projects\Dictionary\Dictionary\obj\Debug\Dictionary.Properties.Resources.resources
+c:\users\acer\documents\visual studio 2015\Projects\Dictionary\Dictionary\obj\Debug\Dictionary.csproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2015\Projects\Dictionary\Dictionary\obj\Debug\Dictionary.exe
+c:\users\acer\documents\visual studio 2015\Projects\Dictionary\Dictionary\obj\Debug\Dictionary.pdb
+D:\Kuliah\SEM 3 UTS\Prakt. PBO\Dictionary\Dictionary\bin\Debug\Dictionary.exe.config
+D:\Kuliah\SEM 3 UTS\Prakt. PBO\Dictionary\Dictionary\obj\Debug\Dictionary.exe
+D:\Kuliah\SEM 3 UTS\Prakt. PBO\Dictionary\Dictionary\obj\Debug\Dictionary.pdb
+D:\Kuliah\SEM 3 UTS\Prakt. PBO\TA_43306_Thufaila Khansa Naura\Dictionary\Dictionary\bin\Debug\Dictionary.exe.config
+D:\Kuliah\SEM 3 UTS\Prakt. PBO\TA_43306_Thufaila Khansa Naura\Dictionary\Dictionary\obj\Debug\Dictionary.exe
+D:\Kuliah\SEM 3 UTS\Prakt. PBO\TA_43306_Thufaila Khansa Naura\Dictionary\Dictionary\obj\Debug\Dictionary.pdb
+D:\Kuliah\SEM 3 UTS\Prakt. PBO\TA_43306_Thufaila Khansa Naura\Dictionary\Dictionary\bin\Debug\Dictionary.exe
+D:\Kuliah\SEM 3 UTS\Prakt. PBO\TA_43306_Thufaila Khansa Naura\Dictionary\Dictionary\bin\Debug\Dictionary.pdb
+D:\Kuliah\SEM 3 UTS\Prakt. PBO\TA_43306_Thufaila Khansa Naura\Dictionary\Dictionary\obj\Debug\Dictionary.csprojResolveAssemblyReference.cache
+D:\Kuliah\SEM 3 UTS\Prakt. PBO\TA_43306_Thufaila Khansa Naura\Dictionary\Dictionary\obj\Debug\Dictionary.Form1.resources
+D:\Kuliah\SEM 3 UTS\Prakt. PBO\TA_43306_Thufaila Khansa Naura\Dictionary\Dictionary\obj\Debug\Dictionary.Properties.Resources.resources
+D:\Kuliah\SEM 3 UTS\Prakt. PBO\TA_43306_Thufaila Khansa Naura\Dictionary\Dictionary\obj\Debug\Dictionary.csproj.GenerateResource.Cache
